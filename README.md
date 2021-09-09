@@ -1,4 +1,4 @@
-# Fullstack Developer
+# Analyst & Developer
 
 - 👋 Hi, I’m @gallucm
 - 👀 I’m interested in Web development
