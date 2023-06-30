@@ -1,7 +1,7 @@
-# Analyst & Developer
+# Frontend Software Engineer
 
 - 👋 Hi, I’m Cristian Galluccio
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Fullstack Web Development
 
 Techs and others:
 
