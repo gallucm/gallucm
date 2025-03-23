@@ -1,4 +1,4 @@
-# Frontend Software Engineer
+# Fullstack Software Engineer
 
 - 👋 Hi, I’m Cristian Galluccio
 - 👀 I’m interested in Fullstack Web Development
